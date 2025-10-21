@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.env
+.env.*
+venv/
+.envs/
+.venv/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & caches
+*.log
+.cache/
+
+# Build & dist
+build/
+dist/
+
+# Generated artifacts (optional)
+digest_images*/
+digest_images_dotsocr*/
+
+# Local datasets or knowledge files (optional)
+knowledgedata/
+
+# Compiled
+*.exe
+*.dll
+
+# Git LFS (if enabled)
+.gitattributes
